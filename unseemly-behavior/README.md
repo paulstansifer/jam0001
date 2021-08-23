@@ -42,7 +42,7 @@ Also, "normal" recursive functions sadly don't work,
  so you need to use the `fix` form to define them.
 
 
-The implementation is in `commentary.unseemly`. 
+The implementation is in `commentary.unseemly`.
 
 `build_a_language.unseemly` is a library mostly pre-existing code
  that adds some very basic features to Unseemly, which is *extremely* barebones.
